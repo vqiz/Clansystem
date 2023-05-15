@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="595a4ecf-ebc7-4ce8-a341-29faaa642700" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Listener/TabCOmplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Clan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/ClanCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/ClanManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Infos/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Invite/Invitecreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Invite/Invitehandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Permission/Mote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/chat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/Clan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/Clanadmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/MYSQLStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/Table.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P6TdJjJv2bacHF9MgpI2DsKvpc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/domin/IdeaProjects/Clansystem/src/main/java/clansystem/teammlg/clansystem&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\domin\IdeaProjects\Clansystem\src\main\java\clansystem\teammlg\clansystem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Clansystem package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="595a4ecf-ebc7-4ce8-a341-29faaa642700" name="Changes" comment="" />
+      <created>1682776617482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682776617482</updated>
+    </task>
+    <servers />
+  </component>
+</project>
