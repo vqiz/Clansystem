@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595a4ecf-ebc7-4ce8-a341-29faaa642700" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Listener/TabCOmplete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Clan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/ClanCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/ClanManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Infos/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Invite/Invitecreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Invite/Invitehandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Permission/Mote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/Manager/chat/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/Clan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/commands/Clanadmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/MYSQLStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clansystem/teammlg/clansystem/mysql/Table.java" afterDir="false" />
+    <list default="true" id="595a4ecf-ebc7-4ce8-a341-29faaa642700" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c4d6d9ed-f54a-4923-9d60-a3a12a9fdc2e" />
+        <option name="url" value="https://github.com/vqiz/Clansystem.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +95,25 @@
       <option name="presentableId" value="Default" />
       <updated>1682776617482</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1684167611727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684167611727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1684167690581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684167690581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
